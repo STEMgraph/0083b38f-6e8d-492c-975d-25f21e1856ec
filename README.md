@@ -1,6 +1,7 @@
 <!---
 {
   "id": "0083b38f-6e8d-492c-975d-25f21e1856ec",
+  "teaches": "Implementing Mathematical Mappings",
   "depends_on": ["0b6b3ce8-418e-4900-ae42-a6d068389a12"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-004-03",
